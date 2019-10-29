@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "icon": "flame",
+      "navigate": "Library",
+      "label": "Library"
+    },
+    {
+      "icon": "cart",
+      "navigate": "Cart",
+      "label": "Cart"
+    },
+    {
+      "icon": "filing",
+      "navigate": "MyBook",
+      "label": "My Book"
+    },
+    {
+      "icon": "finger-print",
+      "navigate": "Account",
+      "label": "Account"
+    }
+  ]
+}
