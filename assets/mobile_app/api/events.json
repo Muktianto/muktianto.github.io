@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "event_name": "Gempar October",
+      "image": "gempar-oktober.png"
+    },
+    {
+      "event_name": "Koleksi Doraemon",
+      "image": "doraemon.png"
+    },
+    {
+      "event_name": "Grab Express",
+      "image": "grab-express.png"
+    },
+    {
+      "event_name": "Halloween",
+      "image": "halloween.png"
+    },
+    {
+      "event_name": "Pick Up Store",
+      "image": "pick-up.png"
+    },
+    {
+      "event_name": "Sumpah Pemuda",
+      "image": "pemuda.png"
+    },
+    {
+      "event_name": "Kim Ji Yeong",
+      "image": "kim-ji.png"
+    },
+    {
+      "event_name": "Imoo Watch",
+      "image": "imoo.png"
+    }
+  ]
+}
