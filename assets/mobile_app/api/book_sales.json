@@ -3,42 +3,52 @@
   "data": [
     {
       "book_name": "Conan 95",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786020497822_Cov_Conan_95__w200_hauto.jpg",
       "image": "9786020497822_Cov_Conan_95__w200_hauto.jpg"
     },
     {
       "book_name": "One Piece",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786020499697_Cov_One_Piece_Blue_Deep_1__w200_hauto.jpg",
       "image": "9786020499697_Cov_One_Piece_Blue_Deep_1__w200_hauto.jpg"
     },
     {
       "book_name": "Komik Ahlak Al Quran",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786022499206_Komik-Akhlak-Dalam-Al-Quran__w200_hauto.jpg",
       "image": "9786022499206_Komik-Akhlak-Dalam-Al-Quran__w200_hauto.jpg"
     },
     {
       "book_name": "Dunia Si Kecil",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786023948680_buku-aktivitas-si-kecil_dunia-anak__w200_hauto.jpg",
       "image": "9786023948680_buku-aktivitas-si-kecil_dunia-anak__w200_hauto.jpg"
     },
     {
       "book_name": "Bodo Amat",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786024526986_Sebuah-Seni-Untuk-Bersikap-Bodo-Amat__w200_hauto.jpg",
       "image": "9786024526986_Sebuah-Seni-Untuk-Bersikap-Bodo-Amat__w200_hauto.jpg"
     },
     {
       "book_name": "Komik Rasulullah SAW Idolaku",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786024553609_Komik-Rasulullah-SAW-Idolaku__w200_hauto.jpg",
       "image": "9786024553609_Komik-Rasulullah-SAW-Idolaku__w200_hauto.jpg"
     },
     {
       "book_name": "Pengadaan Barang & Jasa",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786024557362_PP-RI-NO.16-T__w200_hauto.jpg",
       "image": "9786024557362_PP-RI-NO.16-T__w200_hauto.jpg"
     },
     {
       "book_name": "Boku No Hero Academia 12",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786024802530_MY-HERO-ACADE__w200_hauto.jpg",
       "image": "9786024802530_MY-HERO-ACADE__w200_hauto.jpg"
     },
     {
       "book_name": "Gundala Putra Petir 1",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786024806163_GUNDALA-KLASI__w200_hauto.jpg",
       "image": "9786024806163_GUNDALA-KLASI__w200_hauto.jpg"
     },
     {
       "book_name": "Scrambled 3",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786024806255_SCRAMBLED-3__w200_hauto.jpg",
       "image": "9786024806255_SCRAMBLED-3__w200_hauto.jpg"
     }
   ]

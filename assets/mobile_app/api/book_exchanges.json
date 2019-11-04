@@ -3,42 +3,52 @@
   "data": [
     {
       "book_name": "Komik Aku Anak Islam",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786024832988_A-Z-Aku-Anak-Islam__w200_hauto.jpg",
       "image": "9786024832988_A-Z-Aku-Anak-Islam__w200_hauto.jpg"
     },
     {
       "book_name": "99 Doa & Dzikir Harian",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786024834159_09-99-Doa-dan__w200_hauto.jpg",
       "image": "9786024834159_09-99-Doa-dan__w200_hauto.jpg"
     },
     {
       "book_name": "Metodologi Keperawatan",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786026237118_Metodologi-Keperawatan__w200_hauto.jpg",
       "image": "9786026237118_Metodologi-Keperawatan__w200_hauto.jpg"
     },
     {
       "book_name": "One Piece",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786230001642_Cov_One_Piece__w200_hauto.jpg",
       "image": "9786230001642_Cov_One_Piece__w200_hauto.jpg"
     },
     {
       "book_name": "Black Butler XXVIII",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786230005046_caver_Black_Butler_28__w200_hauto.jpg",
       "image": "9786230005046_caver_Black_Butler_28__w200_hauto.jpg"
     },
     {
       "book_name": "Conan 96",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786230005879_Cov_Conan_96__w200_hauto.jpg",
       "image": "9786230005879_Cov_Conan_96__w200_hauto.jpg"
     },
     {
       "book_name": "Aku Suka Belajar",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786232160521_Seri-Aku-Suka-Belajar_Kuman-dan-Parasit__w200_hauto.jpg",
       "image": "9786232160521_Seri-Aku-Suka-Belajar_Kuman-dan-Parasit__w200_hauto.jpg"
     },
     {
       "book_name": "How Could?",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/9786237211280__w200_hauto.jpg",
       "image": "9786237211280__w200_hauto.jpg"
     },
     {
       "book_name": "KKN Desa Penari",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/img20190913_14323955_qUA9DUp__w200_hauto.jpg",
       "image": "img20190913_14323955_qUA9DUp__w200_hauto.jpg"
     },
     {
       "book_name": "Skripsi Android",
+      "image_url": "https://muktianto.github.io/assets/mobile_app/images/books/Mudah-dan-Cepat-Membuat-Program-Skripsi-dan-Tugas-Akhir-dengan-Android.jpg",
       "image": "Mudah-dan-Cepat-Membuat-Program-Skripsi-dan-Tugas-Akhir-dengan-Android.jpg"
     }
   ]
