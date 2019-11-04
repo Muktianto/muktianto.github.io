@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "Anime and Manga"
+    },
+    {
+      "name": "Light Novel"
+    },
+    {
+      "name": "Religion"
+    },
+    {
+      "name": "Science"
+    },
+    {
+      "name": "Technology"
+    }
+  ]
+}
