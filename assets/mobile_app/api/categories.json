@@ -2,18 +2,23 @@
   "code": 200,
   "data": [
     {
+      "icon": "bird.png",
       "name": "Anime and Manga"
     },
     {
+      "icon": "theater.png",
       "name": "Light Novel"
     },
     {
+      "icon": "diamond.png",
       "name": "Religion"
     },
     {
+      "icon": "flask.png",
       "name": "Science"
     },
     {
+      "icon": "ufo.png",
       "name": "Technology"
     }
   ]
