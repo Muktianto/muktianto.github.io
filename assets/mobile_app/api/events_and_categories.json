@@ -1,0 +1,69 @@
+{
+  "code": 200,
+  "data": {
+    "events": [
+      {
+        "event_name": "Gempar October",
+        "image": "gempar-oktober.png",
+        "image_url": "https://muktianto.github.io/assets/mobile_app/images/events/gempar-oktober.png"
+      },
+      {
+        "event_name": "Koleksi Doraemon",
+        "image": "doraemon.png",
+        "image_url": "https://muktianto.github.io/assets/mobile_app/images/events/doraemon.png"
+      },
+      {
+        "event_name": "Grab Express",
+        "image_url": "https://muktianto.github.io/assets/mobile_app/images/events/grab-express.png",
+        "image": "grab-express.png"
+      },
+      {
+        "event_name": "Halloween",
+        "image_url": "https://muktianto.github.io/assets/mobile_app/images/events/halloween.png",
+        "image": "halloween.png"
+      },
+      {
+        "event_name": "Pick Up Store",
+        "image_url": "https://muktianto.github.io/assets/mobile_app/images/events/pick-up.png",
+        "image": "pick-up.png"
+      },
+      {
+        "event_name": "Sumpah Pemuda",
+        "image_url": "https://muktianto.github.io/assets/mobile_app/images/events/pemuda.png",
+        "image": "pemuda.png"
+      },
+      {
+        "event_name": "Kim Ji Yeong",
+        "image_url": "https://muktianto.github.io/assets/mobile_app/images/events/kim-ji.png",
+        "image": "kim-ji.png"
+      },
+      {
+        "event_name": "Imoo Watch",
+        "image_url": "https://muktianto.github.io/assets/mobile_app/images/events/imoo.png",
+        "image": "imoo.png"
+      }
+    ],
+    "categories": [
+      {
+        "icon": "bird.png",
+        "name": "Anime and Manga"
+      },
+      {
+        "icon": "theater.png",
+        "name": "Light Novel"
+      },
+      {
+        "icon": "diamond.png",
+        "name": "Religion"
+      },
+      {
+        "icon": "flask.png",
+        "name": "Science"
+      },
+      {
+        "icon": "ufo.png",
+        "name": "Technology"
+      }
+    ]
+  }
+}
